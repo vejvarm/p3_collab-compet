@@ -6,3 +6,9 @@ Tennis.exe
 UnityPlayer.dll
 
 .idea/
+
+unity-environment.log
+
+__pycache__/
+
+log/
